@@ -1,0 +1,486 @@
+header a {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 59px;
+    height: 21px;
+    margin-left: 139px;
+    margin-top: 52px;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #5863F8;
+}
+
+header h1 {
+    width: 376px;
+    height: 121px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 63px;
+    color: #000000;
+    margin-left: 139px;
+}
+
+.container1 {
+    width: 57%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin: 50px 139px;
+}
+
+.div1 .textarea {
+    width: 720px;
+    height: 288px;
+    padding: 20px;
+    font-family: poppins;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #CECECE;
+    border: 2px solid #E8E8E8
+}
+
+.div1 .textarea:hover {
+    border-color: royalblue;
+}
+
+.div2 {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.input1 {
+    width: 352px;
+    height: 60px;
+    padding: 20px;
+    font-family: poppins;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #CECECE;
+    border: 2px solid #E8E8E8
+}
+
+.input1:hover {
+    border-color: royalblue;
+}
+
+.input2 {
+    width: 352px;
+    height: 60px;
+    padding: 20px;
+    font-family: poppins;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #CECECE;
+    border: 2px solid #E8E8E8
+}
+
+.input2:hover {
+    border-color: royalblue;
+}
+
+.input3 {
+    width: 352px;
+    height: 60px;
+    padding: 20px;
+    font-family: poppins;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #CECECE;
+    border: 2px solid #E8E8E8;
+}
+
+.input3:hover {
+    border-color: royalblue;
+}
+
+.input4 {
+    width: 352px;
+    height: 60px;
+    font-family: poppins;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background-color: #5863F8;
+}
+
+.input4:hover {
+    border-color: aqua
+}
+
+.comunication {
+    width: 874px;
+    display: flex;
+    gap: 287px;
+    margin-left: 308px;
+}
+
+.comunication img:hover {}
+
+div.words {
+    width: 100%;
+    height: 47px;
+    display: flex;
+}
+
+.words h3.a1 {
+    width: 50px;
+    height: 47px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    margin-left: 315px;
+    margin-top: 15px;
+    color: #000000;
+}
+
+.words h3.a2 {
+    width: 57px;
+    height: 47px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    margin-left: 295px;
+    margin-top: 15px;
+}
+
+.words h3.a3 {
+    width: 78px;
+    height: 47px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    margin-left: 280px;
+    margin-top: 15px;
+}
+
+.adress h3 {
+    display: flex;
+}
+
+.adress h3.chicago {
+    width: 100%;
+    height: 21px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #B1B1B1;
+    display: flex;
+    margin-left: 948px;
+}
+
+.adress h3.nyc {
+    width: 100%;
+    height: 21px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #B1B1B1;
+    margin-left: 948px;
+}
+
+
+.adress h3.phonenumber1 {
+    width: 100%;
+    height: 21px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #B1B1B1;
+    display: flex;
+    margin-top: -40px;
+    margin-left: 625px;
+}
+
+.adress h3.phonenumber2 {
+    width: 100%;
+    height: 21px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #B1B1B1;
+    display: flex;
+    margin-left: 630px;
+}
+
+.adress h3.mailadress {
+    width: 100%;
+    height: 21px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #B1B1B1;
+    display: flex;
+    margin-left: 264px;
+    margin-top: -40px;
+}
+
+.adress h3.mailadress2 {
+    width: 100%;
+    height: 21px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #B1B1B1;
+    display: flex;
+    margin-left: 248px;
+}
+
+.from-hotel a {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 50px;
+    height: 21px;
+    margin-left: 140px;
+    margin-top: 52px;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #5863F8;
+}
+
+.from-hotel h1 {
+    width: 551px;
+    height: 121px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 63px;
+    color: #000000;
+    margin-left: 140px;
+}
+
+div.photo img {
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+footer {
+    width: 100%;
+    height: 305px;
+    background-color: #000000;
+    display: flex;
+    margin-top: 50px;
+    position: relative;
+}
+
+footer div.first-line h2 {
+    width: 148px;
+    height: 1px;
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 63px 140px;
+}
+
+footer div.first-line p {
+    width: 264px;
+    height: 84px;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #B1B1B1;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+}
+
+div.first-line img.fb {
+    width: 13px;
+    height: 23px;
+    margin-left: 139px;
+    margin-top: 16px
+}
+
+div.first-line img.twiter {
+    margin-left: 32px;
+}
+
+div.first-line img.google {
+    margin-left: 32px;
+}
+
+div.second-line {
+    width: 105px;
+    height: 27px;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-top: 75px;
+    margin-left: 316px;
+}
+
+div.second-line h3 {
+    width: 105px;
+    height: 27px;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+div.second-line h4 {
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+div.second-line h4.first {
+    color: #5863F8;
+    margin-top: 15px;
+}
+
+div.third-line {
+    width: 105px;
+    height: 27px;
+    display: flex;
+    color: #FFFFFF;
+    flex-direction: column;
+    margin-left: 121px;
+    line-height: 27px;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+div.third-line h3 {
+    width: 78px;
+    height: 21px;
+    margin-top: 70px;
+    font-size: 18px;
+    font-family: poppins;
+}
+
+div.third-line h4.career {
+    margin-top: 25px;
+
+}
+
+div.forth-line {
+    width: 100%;
+}
+
+div.forth-line h3 {
+    width: 113px;
+    height: 27px;
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-left: 122px;
+    margin-top: 69px;
+}
+
+div.forth-line img.mail {
+    width: 16px;
+    height: 12px;
+    margin-left: 125px;
+    margin-top: 25px;
+}
+
+div.forth-line p.p1 {
+    display: inline;
+    width: 145px;
+    height: 21px;
+    color: #FFFFFF;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+div.forth-line li {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+div.forth-line li img {
+    display: flex;
+    margin-left: 125px;
+    margin-top: 10px;
+}
+
+div.forth-line .p2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 115px;
+    height: 30px;
+    color: #FFFFFF;
+    font-family: poppins;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+div.forth-line .location {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+div.forth-line .last-p {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width:500px) {
+     .menu, .main, .right {
+      width: 100%;
+    }
+}
